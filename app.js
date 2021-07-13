@@ -29,7 +29,7 @@ const io = socketio(server)
 
 
 app.get('/',(req,res)=>{
-    res.send("This is Backend Server For Chess With Friends Created By Arihant")
+    res.send("This is Backend Server For Chess With Friends Created By Sanskar and arpit")
 })
 
 
